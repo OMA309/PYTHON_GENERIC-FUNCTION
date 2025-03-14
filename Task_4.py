@@ -7,7 +7,7 @@ So it should fail when it gets to A4atullah.
 Please when you are writing that function , make sure it gives the exact entry that is bad with a meaningful message, so that we can be sure of the specific entry and relay back to the marketing team.
 '''
 
-Names = ['Wofa','Zainab','A4atullah']
+Names = []
 
 def Check_error(Names):
     ''' 
